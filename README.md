@@ -30,6 +30,7 @@ This project is no longer actively maintained, it should still work for the fore
 
 ---
 Branch2 change 1
+Branch2 change 2
 # Table Of Contents
 
 - [`Dependencies`](#Dependencies)
